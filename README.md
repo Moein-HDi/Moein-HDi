@@ -35,4 +35,4 @@ a passionate web developer ;)
 
 ### Badges
 
-<a href="https://github.com/Moein-HDi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moein-HDi&hide=javascript&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Moein-HDi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moein-HDi&hide=javascript&langs_count=10&theme=dracula&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
