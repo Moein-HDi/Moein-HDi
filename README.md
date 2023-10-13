@@ -5,7 +5,6 @@ a passionate web developer ;)
 -----------------------------
 
 *   🌍  I'm based in Tehran
-*   ✉️  You can contact me at [moein.hedayati@gmail.com](mailto:moein.hedayati@gmail.com)
 *   🌐  https://moein-hdi.github.io
 
 ### Skills 
