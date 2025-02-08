@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌐 passionate about backend development with python<br>📧 you can contact me at mo3inhdi@gmail.com</p>
+<p align="left">🌐 Passionate about Back-End development with Python and Front-End development with Svelte<br>📧 you can contact me at mo3inhdi@gmail.com</p>
 
 ###
 
@@ -30,10 +30,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
